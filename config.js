@@ -1,5 +1,7 @@
 
-// GET YOUR INFURA API ENDPOINT FROM https://infura.io/
+//  https://infura.io
+//  Add API from Infura
+//  Add Address
 export const INFURA_ADDRESS = ""
 
 
