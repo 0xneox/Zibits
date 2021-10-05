@@ -1,7 +1,7 @@
 
 ### MayanPunk Web Application 🔥
 
-This repo hosts the UI for ### MayanPunk
+This repo hosts the UI for  MayanPunk
 
 To find out more please visit:
 
