@@ -24,7 +24,7 @@ font-display: swap;
 #bodyy {
     background-image: url('/images/bg new3.jpg');
     background-position: 0px 0px;
-    background-size: contain;
+    background-size: cover;
     background-repeat: repeat;
    
 }
