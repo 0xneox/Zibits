@@ -29,12 +29,12 @@ Pinata Cloud: https://pinata.cloud
 
 Opensea Metadata Standard: https://docs.opensea.io/docs/metadata-standards
 
-Hardhat: 
+Hardhat: https://hardhat.org/
 
-CanvasAPI:
+CanvasAPI: https://canvasapi.readthedocs.io/en/stable/
 
-NodeJS:
+NodeJS: https://nodejs.org/
 
-BoxySVG: 
+BoxySVG: https://boxy-svg.com/
 
-Yarn: 
+Yarn: https://yarnpkg.com/
