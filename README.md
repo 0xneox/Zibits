@@ -9,7 +9,7 @@ To find out more please visit:
 
 [ℹ️ Website](https://mayanpunk.com)
 
-![](https://github.com/Mayanpunk/Mayanpunk/public/images/banner.png)
+[](https://github.com/Mayanpunk/Mayanpunk/public/images/banner.png)
 
 Create generative art by using the canvas api and node js. Before you use the generation engine, make sure you have node.js and yarn installed.
 
