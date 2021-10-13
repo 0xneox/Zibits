@@ -65,8 +65,8 @@ The Maya script was a logosyllabic system with some syllabogrammatic elements. I
                 </div>
                 <div id="gallery" className="   mx-6 py-6">
                     
-                    <p className="text-blau Montserrat-Light text-4xl text-center"> We are not pitching an NFT, but an understanding. 
-                    </p>
+                    <p className="text-blau Montserrat-Light text-4xl text-center"> A logographic sign, a "sign that represents a word" is often simply a
+picture of a major element of the act or object represented </p>
                   
                   <div className="flex flex-wrap  items-center mx-6   py-6 ">    
                   </div>
@@ -76,24 +76,20 @@ The Maya script was a logosyllabic system with some syllabogrammatic elements. I
                   <div className="flex flex-col justify-between mx-6 sm:w-1/2 w-4/5 py-6 ">
           <p className="text-blau Montserrat-Light text-3xl"> Hiero glyphs
                     </p>
-                     <p className="text-xl text-white my-6  Poppitandfinch"> A universal accept reservation system in the Metaverse in which sysndicate pass access as a security check-in for filtering junks. Zib1 syndicate pass holders can redeem all future drops without spending gas fee.
-                    </p>
+                     <p className="text-xl text-white my-6  Poppitandfinch"> The word hieroglyph literally means "sacred carvings". The Mayans first used hieroglyphs exclusively for inscriptions carved.</p>
                     <p className="text-blau Montserrat-Light text-3xl"> Emblem glyphs
                     </p>
-                     <p className="text-xl text-white my-6  Poppitandfinch"> Zentians exhibit properties of Zentianbits which are fractionalized zentians with unique and distinctive traits and attributes which is randomly combined to generate Zentian.</p>
-                    <p className="text-blau Montserrat-Light text-3xl"> Logosyllabic glyphs
+                     <p className="text-xl text-white my-6  Poppitandfinch">  the emblem glyph (actually made of several glyphs) is an ancient Maya title. It is understood to translate as "holy lord of such and such place" -- with each city-state's/polity's name put in the "such and such place" spot. When used, an emblem glyph would be placed next to the ruler's name</p><p className="text-blau Montserrat-Light text-3xl"> Logosyllabic glyphs
                     </p>
-                    <p className="text-xl text-white my-6  Poppitandfinch"> Each Zentianz consists of multiple aspects in various combinations. Within the same experience, one can see,multiple iterations. Also they are irreducible to non-interdependent components.
-                    </p>
+                    <p className="text-xl text-white my-6  Poppitandfinch"> The Maya writing system is logosyllabic, meaning its symbols can represent sounds in the form of syllables (like “ma” or “tot”), or they might represent whole concepts (like “river” or “house”). This made the language very difficult to decode</p>
                    </div>
                 </div>
                 <div id="traits" className="flex flex-wrap justify-around  mx-6 py-6">
           <div className="lg:w-/2 w-/4">
                
-                    <p className="text-blau Montserrat-Light text-2xl">Royal NFTs - Royal Non Fungible Titles 
+                    <p className="text-blau Montserrat-Light text-2xl">Mayan Syllables
                     </p>
-                     <p className="text-xl text-white my-6  Poppitandfinch"> A universal accept reservation system in the Metaverse in which sysndicate pass access as a security check-in for filtering junks. Zib1 syndicate pass holders can redeem all future drops without spending gas fee.
-</p>
+                     <p className="text-xl text-white my-6  Poppitandfinch"> Many syllables can be represented by more than one glyph. Mayan script was usually written in paired vertical columns reading from left to right and top to bottom in a zigzag pattern.</p>
                     </div>
                   
                  
@@ -117,9 +113,9 @@ The Maya script was a logosyllabic system with some syllabogrammatic elements. I
                 <div id="traits" className="flex flex-wrap justify-around  mx-6 py-6">
           <div className="lg:w-/2 w-/4">
                
-                    <p className="text-blau Montserrat-Light text-2xl"> We are not pitching an NFT, but an understanding. 
+                    <p className="text-blau Montserrat-Light text-2xl"> MayanPunk Tribes 
                     </p>
-                     <p className="text-xl text-white my-6  Poppitandfinch"> A universal accept reservation system in the Metaverse in which sysndicate pass access as a security check-in for filtering junks. Zib1 syndicate pass holders can redeem all future drops without spending gas fee.
+                     <p className="text-xl text-white my-6  Poppitandfinch"> What's more, they were one of only three civilizations that invented a complete system of writing., you will learn about ancient Maya writing and about the ancient Maya civilization.
 </p><br></br><br></br>
                 <p className="text-blau Montserrat-Light text-2xl"> We are eager to collab with artists and developers.
                     </p>
