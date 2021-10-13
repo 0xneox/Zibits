@@ -50,11 +50,15 @@ export default function Home() {
                   <h2 className="text-blau Poppitandfinch text-5xl ">Why MayanPunk</h2>
                
              <br></br>
-                     <p className="text-xl text-white my-6  Poppitandfinch"> A universal accept reservation system in the Metaverse in which sysndicate pass access as a security check-in for filtering junks. Zib1 syndicate pass holders can redeem all future drops without spending gas fee.A universal accept reservation system in the Metaverse in which sysndicate pass access as a security check-in for filtering junks. Zib1 syndicate pass holders can redeem all future drops without spending gas fee.A universal accept reservation system in the Metaverse in which sysndicate pass access as a security check-in for filtering junks. Zib1 syndicate pass holders can redeem all future drops without spending gas fee.
-</p>
-<h2 className="text-blau Poppitandfinch text-5xl ">About us</h2>
+                     <p className="text-xl text-white my-6  Poppitandfinch"> MayanPunk demonstrate an impressive ability to use word play, iconography, and other linguistic and
+visual dimensions to create truly magnificent generative art as rich as Classic Maya art is in its iconographic displays.</p>
+
               
-                       <p className="text-xl text-white my-6  Poppitandfinch"> A universal accept reservation system in the Metaverse in which sysndicate pass access as a security check-in for filtering junks. Zib1 syndicate pass holders can redeem all future drops without spending gas fee.A universal accept reservation system in the Metaverse in which sysndicate pass access as a security check-in for filtering junks. Zib1 syndicate pass holders can redeem all future drops without spending gas fee.A universal accept reservation system in the Metaverse in which sysndicate pass access as a security check-in for filtering junks. Zib1 syndicate pass holders can redeem all future drops without spending gas fee.
+                       <p className="text-xl text-white my-6  Poppitandfinch"> Classic Maya writing makes use of a range of types of signs, sorne more related to
+phonological units, the others more related to conceptual units. These may be called phonetic and
+logographic signs, respectively. The same word may be wrinen in the same text in a variety of
+ways, making use of the possibilities offered by these two types of signs as well as by graphic
+variants and stylistic variations in the visual representation of the individual signs.
   </p>
 
          </div>
