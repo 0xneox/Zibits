@@ -50,24 +50,24 @@ export default function Home() {
                     <h2 className="text-blau Montserrat-Light text-7xl text-center">MayanPunk Collection</h2>
                   <div className="flex flex-wrap  items-center mx-6   py-6 ">
                   <div id="traits" className="flex flex-wrap justify-around items-center  mx-6 py-6">
-                <div className="border-4 border-blue-300 p-4"><img src="images/181.svg" alt="" width="100px" className="feature-image"/></div>
-                <div className="border-4 border-blue-300 p-4"><img src="images/294.png" alt="" width="100px" className="feature-image"/></div>
-                <div className="border-4 border-blue-300 p-4"><img src="images/051.svg" alt="" width="110px" className="feature-image"/></div>
-                <div className="border-4 border-blue-300 p-4"><img src="images/4.svg" alt="" width="110px" className="feature-image"/></div>
-                <div className="border-4 border-blue-300 p-4"><img src="images/5.svg" alt="" width="100px" className="feature-image"/></div>
+                <div className="border-4 border-blue-300 p-4"><img src="images/gallery2.png" alt="" width="100px" className="feature-image"/></div>
+                <div className="border-4 border-blue-300 p-4"><img src="images/gallery8.svg" alt="" width="100px" className="feature-image"/></div>
+                <div className="border-4 border-blue-300 p-4"><img src="images/gallery9.svg" alt="" width="110px" className="feature-image"/></div>
+                <div className="border-4 border-blue-300 p-4"><img src="images/gallerya2.svg" alt="" width="110px" className="feature-image"/></div>
+                <div className="border-4 border-blue-300 p-4"><img src="images/galleryb1.png" alt="" width="100px" className="feature-image"/></div>
        
-                <div className="border-4 border-blue-300 p-4"><img src="images/92.png" alt="" width="110px" className="feature-image"/></div>
-                <div className="border-4 border-blue-300 p-4"><img src="images/maya006.svg" alt="" width="110px" className="feature-image"/></div>
-                <div className="border-4 border-blue-300 p-4"><img src="images/xc1.svg" alt="" width="110px" className="feature-image"/></div>
-                <div className="border-4 border-blue-300 p-4"><img src="images/xc2.png" alt="" width="100px" className="feature-image"/></div>
-                <div className="border-4 border-blue-300 p-4"><img src="images/432.svg" alt="" width="110px" className="feature-image"/></div>
+                <div className="border-4 border-blue-300 p-4"><img src="images/gallerylogo.png" alt="" width="110px" className="feature-image"/></div>
+                <div className="border-4 border-blue-300 p-4"><img src="images/gallerymaya006.svg" alt="" width="110px" className="feature-image"/></div>
+                <div className="border-4 border-blue-300 p-4"><img src="images/gallerymayanpunk#39F.png" alt="" width="110px" className="feature-image"/></div>
+                <div className="border-4 border-blue-300 p-4"><img src="images/gallerymayanpunk#54A.png" alt="" width="100px" className="feature-image"/></div>
+                <div className="border-4 border-blue-300 p-4"><img src="images/gallerymayanpunk#118b.png" alt="" width="110px" className="feature-image"/></div>
           
           
-                <div className="border-4 border-blue-300 p-4"><img src="images/92.png" alt="" width="110px" className="feature-image"/></div>
-                <div className="border-4 border-blue-300 p-4"><img src="images/maya006.svg" alt="" width="110px" className="feature-image"/></div>
-                <div className="border-4 border-blue-300 p-4"><img src="images/xc1.svg" alt="" width="110px" className="feature-image"/></div>
-                <div className="border-4 border-blue-300 p-4"><img src="images/xc2.png" alt="" width="100px" className="feature-image"/></div>
-                <div className="border-4 border-blue-300 p-4"><img src="images/432.svg" alt="" width="110px" className="feature-image"/></div>
+                <div className="border-4 border-blue-300 p-4"><img src="images/gallerymayanpunk#137a.png" alt="" width="110px" className="feature-image"/></div>
+                <div className="border-4 border-blue-300 p-4"><img src="images/gallerymayanpunk#182a.png" alt="" width="110px" className="feature-image"/></div>
+                <div className="border-4 border-blue-300 p-4"><img src="images/gallerymayanpunk#192a.png" alt="" width="110px" className="feature-image"/></div>
+                <div className="border-4 border-blue-300 p-4"><img src="images/gallerymayanpunk#197a.png" alt="" width="100px" className="feature-image"/></div>
+                <div className="border-4 border-blue-300 p-4"><img src="images/gallerymayanpunk#243.png" alt="" width="110px" className="feature-image"/></div>
                 
                 <div className="border-4 border-blue-300 p-4"><img src="images/92.png" alt="" width="110px" className="feature-image"/></div>
                 <div className="border-4 border-blue-300 p-4"><img src="images/maya006.svg" alt="" width="110px" className="feature-image"/></div>
