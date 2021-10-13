@@ -75,7 +75,7 @@ export default function Home() {
                
                     <p className="text-blau Montserrat-Light text-2xl"> How do you support the Community ?
                     </p>
-                     <p className="text-xl text-white my-6  Poppitandfinch"> We share 25% of our income from secondary sales and from LoopyLand with our holders. If LoopyLand DAO decides to put these funds to a different use, such as donations to organizations, it'll happen.
+                     <p className="text-xl text-white my-6  Poppitandfinch"> We share 25% of our income from secondary sales and from MayanPunk with our holders. If MayanDAO decides to put these funds to a different use, such as donations to organizations, it'll happen.
 </p>
                     </div>
                   
@@ -86,7 +86,7 @@ export default function Home() {
                
                     <p className="text-blau Montserrat-Light text-2xl"> Is there any delay in reveal ?
                     </p>
-                     <p className="text-xl text-white my-6  Poppitandfinch"> No, the reveal will be instant. You won't have to wait to meet your Mayan.
+                     <p className="text-xl text-white my-6  Poppitandfinch"> No, the reveal will be instant. You won't have to wait to meet your cute and thug MayanPunk.
 </p>
                     </div>
                   
@@ -101,7 +101,7 @@ export default function Home() {
 
 The action of minting involves sending the correct amount of ETH to the NFT's “Smart Contract” (which you can think of as the registry for the specific NFT collection), the Smart Contract in turn will “mint” a new item in the collection and set the buyer's wallet address as the owner of that item.
 
-The Loopy Donuts smart contract is limited to 10,000 Donuts, so grab yours ASAP!
+The MayanPunk smart contract is limited to 10,000 Mayans, so grab yours ASAP!
 </p>
                     </div>
                   
@@ -141,10 +141,8 @@ OpenSea is the largest NFT marketplace and the platform of choice for most colle
                
                     <p className="text-blau Montserrat-Light text-2xl"> Whats your story ?
                     </p>
-                     <p className="text-xl text-white my-6  Poppitandfinch"> Our story begins with 10,000 unique Mayans- AKA MayanPunk - that have managed to unshackle themselves from mediocrity and the life others would have had them live…
-
-Some in groups, yet others individually - have made their way towards the Great Portal, beyond which lies Mayaverse
-It'll take 10,000 of Mayans to build Mayan Empire on the Metaverse.
+                     <p className="text-xl text-white my-6  Poppitandfinch"> Our story begins with 10,000 unique Mayans- AKA MayanPunk - that have managed to unshackle themselves from bured ancient history.
+                     These unique Mayans are algorithmically developed using 800 MayanGlyphs, these are decoded mayan scripts. 
 </p>
                     </div>
                   
@@ -159,9 +157,9 @@ It'll take 10,000 of Mayans to build Mayan Empire on the Metaverse.
                      <p className="text-xl text-white my-6  Poppitandfinch"> You will need to have MetaMask installed and set up (If you don't know what MetaMask is or how to install it, please visit https://metamask.io for instructions).
 
 In order to buy, connect with your wallet and use the minting interface to select how many donuts you want to get.
-Click the shiny mint button, approve the transaction on MetaMask and watch ‘em loop into your wallet!
+Click the shiny mint button, approve the transaction on MetaMask and watch Mayans comming into your wallet!
 
-You can buy up to 20 Loopy Donuts in a single transaction.
+You can buy up to 20 MayanPunk's in a single transaction.
 
 Please make sure you have enough ETH in your wallet for the desired amount of donuts (see pricing above) and for some fees - AKA Gas - (which are charged by the Ethereum network).
 </p>
@@ -174,7 +172,7 @@ Please make sure you have enough ETH in your wallet for the desired amount of do
                
                     <p className="text-blau Montserrat-Light text-2xl"> How can I mint from mobile?
                     </p>
-                     <p className="text-xl text-white my-6  Poppitandfinch"> You will need to use the MetaMask App Browser and connect your wallet to mint donuts on our website.</p>
+                     <p className="text-xl text-white my-6  Poppitandfinch"> You will need to use the MetaMask App Browser and connect your wallet to mint Mayans on our website.</p>
                     </div>
                   
                  
@@ -195,7 +193,7 @@ Please make sure you have enough ETH in your wallet for the desired amount of do
                
                     <p className="text-blau Montserrat-Light text-2xl">Tell about the art ?
                     </p>
-                     <p className="text-xl text-white my-6  Poppitandfinch"> Each MaynPunk is created randomly from a pool of 550 hand-drawn traits.
+                     <p className="text-xl text-white my-6  Poppitandfinch"> Each MaynPunk is created randomly from a pool of 800 hand-drawn traits. In
 The generative algorithm ensures that all Mayans are unique and none has the same set of traits.
 Some traits are “rarer” than others but all of them are meticulously illustrated.
 </p>
@@ -223,12 +221,9 @@ Once we hit the 50% sold mark, we will begin uploading the art in full resolutio
               
           <p className="text-blau Montserrat-Light text-2xl">What is your vision?
                     </p>
-                     <p className="text-xl text-white my-6  Poppitandfinch"> Our vision is to create and develop LoopyLand metaverse - which is in its core a fun DeFi platform and a home for all Donuts, where the $CHILL is our token of choice.
+                     <p className="text-xl text-white my-6  Poppitandfinch"> Our vision is to create and develop Maya metaverse - which is in its core a fun Onchain DeFi platform and a home for all Mayans and there arts.
 
-LoopyLand is open for all and strives to provide it's users with state-of-the-art risk management tools. Loopy Donuts however, get additional perks for staking and participating in LoopyLand.
-
-We are planning to develop and launch staking games and Play to Earn games in the future if our metaverse truly takes off!
-</p>
+We intially planned to launch Mayans as an Onchain art, since all our mayanpunks are made as SVG only, and customised using BoxySVG. We sought to deploy MayanPunk onChain ASAP. That's our primary vision as of now.</p>
                     </div>
                   
                  
@@ -250,7 +245,7 @@ We are planning to develop and launch staking games and Play to Earn games in th
           <p className="text-blau Montserrat-Light text-2xl">Where can I get Support
                     </p>
                      <p className="text-xl text-white my-6  Poppitandfinch"> 
-                We are here to support you on our Discord server.</p>
+                We are here to support you on our<a href="https://discord.gg/9pNpXBDwqD" className="text-2xl Poppitandfinchsans text-blau   m-6">Discord</a></p> 
                     </div>
                   
                  
