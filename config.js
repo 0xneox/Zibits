@@ -2,7 +2,7 @@
 //  https://infura.io
 //  Add API from Infura
 //  Add Address
-export const INFURA_ADDRESS = ""
+export const INFURA_ADDRESS = "https://rinkeby.infura.io/v3/64a7aaac104d46658e1ec900a582066d"
 
 
 export const ADDRESS = "0xB9aB19454ccb145F9643214616c5571B8a4EF4f2"
