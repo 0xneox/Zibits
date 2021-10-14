@@ -30,7 +30,7 @@ export default function Home() {
               <nav className="flex flex-wrap flex-row justify-around Poppitandfinchsans">
                 <a href="/home" className="text-2xl Poppitandfinch text-white hover:text-black m-6">Home</a>
                 <a href="/about" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">About</a>
-                <a href="/mint" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Mint</a>
+        <button type="button" className="text-2xl Poppitandfinchsans text-white  m-6">Mint</button>
                 <a href="/glyphs" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Glyphs</a>
                 <a href="/mayans" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Mayans</a>
                 <a href="/faq" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">FAQ</a>
@@ -46,10 +46,13 @@ export default function Home() {
     
 
           <div id="traits" className="flex flex-wrap justify-around items-center  mx-6 py-6">
-                   <div className="flex flex-col justify-between mx-6 sm:w-/2 w-/4 py-6 "><br></br>
+                   <div className="flex flex-col justify-between mx-6 sm:w-1/2 w-3/4 py-6 "><br></br>
+
                   <h2 className="text-blau Poppitandfinch text-5xl ">Why MayanPunk</h2>
                
              <br></br>
+
+                   <img className="lg:w-1/2 w-3/4" img src="images/g30.gif" alt="" width="200px" className="feature-image"/>
                      <p className="text-xl text-white my-6  Poppitandfinch"> MayanPunk demonstrate an impressive ability to use word play, iconography, and other linguistic and
 visual dimensions to create truly magnificent generative art as rich as Classic Maya art is in its iconographic displays.</p>
 
@@ -69,7 +72,7 @@ variants and stylistic variations in the visual representation of the individual
             <nav className="flex flex-wrap flex-row justify-around Poppitandfinchsans">
               <a href="/home" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Home</a>
               <a href="/gallery" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Collection</a>
-              <a href="/mint" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Mint</a>
+       <button type="button" className="text-2xl Poppitandfinchsans text-white  m-6">Mint</button>
               <a href="/faq" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">FAQ</a>
               <a href="/about" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">About US</a>
               <a href="/roadmap" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Roadmap</a>
