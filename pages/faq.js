@@ -29,7 +29,7 @@ export default function Home() {
               <nav className="flex flex-wrap flex-row justify-around Poppitandfinchsans">
                 <a href="/home" className="text-2xl Poppitandfinch text-white hover:text-black m-6">Home</a>
                 <a href="/about" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">About</a>
-                <a href="/mint" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Mint</a>
+                 <button type="button" className="text-2xl Poppitandfinchsans text-white  m-6">Mint</button>
                 <a href="/glyphs" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Glyphs</a>
                 <a href="/mayans" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Mayans</a>
                 <a href="/faq" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">FAQ</a>
@@ -269,7 +269,7 @@ We intially planned to launch Mayans as an Onchain art, since all our mayanpunks
             <nav className="flex flex-wrap flex-row justify-around Poppitandfinchsans">
               <a href="/home" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Home</a>
               <a href="/gallery" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Collection</a>
-              <a href="/mint" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Mint</a>
+               <button type="button" className="text-2xl Poppitandfinchsans text-white  m-6">Mint</button>
               <a href="/faq" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">FAQ</a>
               <a href="/about" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">About US</a>
               <a href="/roadmap" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Roadmap</a>
