@@ -31,7 +31,7 @@ export default function Home() {
               <nav className="flex flex-wrap flex-row justify-around Poppitandfinchsans">
                 <a href="/home" className="text-2xl Poppitandfinch text-white hover:text-black m-6">Home</a>
                 <a href="/about" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">About</a>
-                <a href="/mint" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Mint</a>
+             <button type="button" className="text-2xl Poppitandfinchsans text-white  m-6">Mint</button>
                 <a href="/glyphs" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Glyphs</a>
                 <a href="/mayans" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Mayans</a>
                 <a href="/faq" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">FAQ</a>
@@ -40,26 +40,16 @@ export default function Home() {
               </nav>
             </div>
           </div>
-        <div className="md:w-2/3 w-4/5 " id="about">
-       
+  <div className="md:w-2/3 w-4/5 " id="about">
+          <div className="mt-6 border-b-2 py-6">
+            <div className="flex flex-wrap lg:flex-nowrap justify-around items-center">
+                  <div className="lg:w-1/2 w-3/4">
 
 
-    
+                                </div>
 
-                <div id="gallery" className="   mx-6 py-6">
-                <div id="traits" className="flex flex-wrap justify-around items-left mx-6 py-6">
-                <div className="flex flex-col justify-between mx-6 sm:w-1/2 w-/4 py-6 "><br></br>
-                  <h2 className="text-blau Poppitandfinch text-5xl ">Mayan Glyphs</h2>
-                 
-                 <div className="lg:w-/2 w-4/">
-                           
-                            <p className="text-xl text-white my-6  Poppitandfinch"> MayanPunk is a curated collection of Mayan Scripts generated using 500 mayan logograms [ logosyllabic representation] developed by random iterations of mayan syllables consisting of places, names and gods of Maya Civilization . Each MayanPunk is built using orginal Mayan Glyphs[ 550]
-which represents the whole mayan world of Arts. </p>
-                           
-                         
-                         </div>
-                         </div>
-                       </div>
+            </div>
+
                   <div className="flex flex-wrap  items-center mx-6   py-6 ">
                   <div className="mt-6 border-b-2 py-6">
             <div className="flex flex-wrap lg:flex-nowrap justify-around items-center">
@@ -73,8 +63,8 @@ which represents the whole mayan world of Arts. </p>
                      <br />‍
                    </p>
                    </div>
-                  <img className="lg:w-1/2 w-3/4" img src="images/h1.svg" alt="" width="230px" className="feature-image"/>
-                  <img className="lg:w-1/2 w-3/4" img src="images/h2.svg" alt="" width="230px" className="feature-image"/>
+                  <img className="lg:w-1/2 w-3/4" img src="images/g29.gif" alt="" width="300px" className="feature-image"/>
+
             </div>
             </div>
             <div className="mt-6 border-b-2 py-6">
@@ -93,8 +83,8 @@ An experiment involving an alchemy of Generative Art and Ancient Civilization.<b
                      <br />‍
                    </p>
                    </div>
-                  <img className="lg:w-1/2 w-3/4" img src="images/181.svg" alt="" width="230px" className="feature-image"/>
-                  <img className="lg:w-1/2 w-3/4" img src="images/181.svg" alt="" width="230px" className="feature-image"/>
+                  <img className="lg:w-1/2 w-3/4" img src="images/g4a.gif" alt="" width="300px" className="feature-image"/>
+
             </div>
             </div>
 
@@ -115,11 +105,12 @@ An experiment involving an alchemy of Generative Art and Ancient Civilization.<b
                     </p>
                     <div className="mt-6 border-b-2 py-6">
             <div className="flex flex-wrap lg:flex-nowrap justify-around items-center">
-                  <img className="lg:w-1/2 w-3/4" img src="images/421.svg" alt="" width="230px" className="feature-image"/>
-                  <img className="lg:w-1/2 w-3/4" img src="images/421.svg" alt="" width="230px" className="feature-image"/>
+                  <img className="lg:w-1/2 w-3/4" img src="images/g23.gif" alt="" width="200px" className="feature-image"/>
+
                  
-                  <img className="lg:w-1/2 w-3/4" img src="images/421.svg" alt="" width="230px" className="feature-image"/>
-                  <img className="lg:w-1/2 w-3/4" img src="images/421.svg" alt="" width="230px" className="feature-image"/>
+                  <img className="lg:w-1/2 w-3/4" img src="images/g26.gif" alt="" width="200px" className="feature-image"/>
+                  <img className="lg:w-1/2 w-3/4" img src="images/g19.gif" alt="" width="200px" className="feature-image"/>
+                  <img className="lg:w-1/2 w-3/4" img src="images/g17.gif" alt="" width="200px" className="feature-image"/>
                   
                  
             </div>
@@ -150,7 +141,7 @@ An experiment involving an alchemy of Generative Art and Ancient Civilization.<b
             <nav className="flex flex-wrap flex-row justify-around Poppitandfinchsans">
               <a href="/home" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Home</a>
               <a href="/gallery" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Collection</a>
-              <a href="/mint" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Mint</a>
+                <button type="button" className="text-2xl Poppitandfinchsans text-white  m-6">Mint</button>
               <a href="/faq" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">FAQ</a>
               <a href="/about" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">About US</a>
               <a href="/roadmap" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Roadmap</a>
