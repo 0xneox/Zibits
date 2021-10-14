@@ -31,7 +31,7 @@ export default function Home() {
               <nav className="flex flex-wrap flex-row justify-around Poppitandfinchsans">
                 <a href="/home" className="text-2xl Poppitandfinch text-white hover:text-black m-6">Home</a>
                 <a href="/about" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">About</a>
-                <a href="/mint" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Mint</a>
+             <button type="button" className="text-2xl Poppitandfinchsans text-white  m-6">Mint</button>
                 <a href="/glyphs" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Glyphs</a>
                 <a href="/mayans" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Mayans</a>
                 <a href="/faq" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">FAQ</a>
@@ -40,26 +40,16 @@ export default function Home() {
               </nav>
             </div>
           </div>
-        <div className="md:w-2/3 w-4/5 " id="about">
-       
+  <div className="md:w-2/3 w-4/5 " id="about">
+          <div className="mt-6 border-b-2 py-6">
+            <div className="flex flex-wrap lg:flex-nowrap justify-around items-center">
+                  <div className="lg:w-1/2 w-3/4">
 
 
-    
+                                </div>
 
-                <div id="gallery" className="   mx-6 py-6">
-                <div id="traits" className="flex flex-wrap justify-around items-left mx-6 py-6">
-                <div className="flex flex-col justify-between mx-6 sm:w-1/2 w-/4 py-6 "><br></br>
-                  <h2 className="text-blau Poppitandfinch text-5xl ">Mayan Glyphs</h2>
-                 
-                 <div className="lg:w-/2 w-4/">
-                           
-                            <p className="text-xl text-white my-6  Poppitandfinch"> A universal accept reservation system in the Metaverse in which sysndicate pass access as a security check-in for filtering junks. Zib1 syndicate pass holders can redeem all future drops without spending gas fee.
-       </p>
-                           
-                         
-                         </div>
-                         </div>
-                       </div>
+            </div>
+
                   <div className="flex flex-wrap  items-center mx-6   py-6 ">
                   <div className="mt-6 border-b-2 py-6">
             <div className="flex flex-wrap lg:flex-nowrap justify-around items-center">
@@ -67,30 +57,18 @@ export default function Home() {
                   
                     <h1 className="text-4xl montserrat text-blau ">Hiero glyphs</h1>
                     <p className="text-2xl text-white my-6  Poppitandfinch">
-An experiment involving an alchemy of Generative Art and Ancient Civilization.<br />‍<br />Curated collection of random generated MayanPunk mapped to the real world. 
-<br></br><br/>‍<span className="text-blau text-5xl Poppitandfinchsans">550 </span>
-<span className="text-blau text-5xl Poppitandfinchsans">10000 </span>   </p>
+                    The mayan hieroglyphs from the famsi.org dictionary. UC Berkeley has been working on a Mayan Unicode font for over 5 years, but no sign of it being finished is in sight. So we rebuilt the icons from scratch (mapping them to the word and definition they represent). There are 800 icons. Use these to show off the Mayan world in your next project!
+ </p>
                     <p className="text-2xl text-white my-6  Poppitandfinch">
                      <br />‍
                    </p>
                    </div>
-                  <img className="lg:w-1/2 w-3/4" img src="images/h1.svg" alt="" width="230px" className="feature-image"/>
-                  <img className="lg:w-1/2 w-3/4" img src="images/h2.svg" alt="" width="230px" className="feature-image"/>
+                  <img className="lg:w-1/2 w-3/4" img src="images/g29.gif" alt="" width="300px" className="feature-image"/>
+
             </div>
             </div>
             <div className="mt-6 border-b-2 py-6">
-            <div className="flex flex-wrap lg:flex-nowrap justify-around items-center">
-                  <img className="lg:w-1/2 w-3/4" img src="images/181.svg" alt="" width="230px" className="feature-image"/>
-                  <img className="lg:w-1/2 w-3/4" img src="images/032.png" alt="" width="230px" className="feature-image"/>
-                  <div className="lg:w-1/2 w-3/4"> 
-                    <h1 className="text-4xl montserrat text-blau ">Emblem glyphs</h1>
-                    <p className="text-2xl text-white my-6  Poppitandfinch">An emblem glyph is a kind of royal title. It consists of a place name followed by a word which is the Classic Maya term for lord with a  well-attested etymology. Sometimes the title is introduced by an adjective,"holy, divine or sacred", resulting in the construction "holy [mayanpunk] lord". <br></br><br></br>Emblem glyph simply reflects the time when Mayanists could not read Classic Maya inscriptions and used a term to isolate specific recurring structural components of the written narratives</p>
-                    <p className="text-2xl text-white my-6  Poppitandfinch">
-                     <br />‍
-                   </p>
-                   </div>
-                 
-            </div>
+         
             </div>
             <div className="mt-6 border-b-2 py-6">
             <div className="flex flex-wrap lg:flex-nowrap justify-around items-center">
@@ -105,8 +83,8 @@ An experiment involving an alchemy of Generative Art and Ancient Civilization.<b
                      <br />‍
                    </p>
                    </div>
-                  <img className="lg:w-1/2 w-3/4" img src="images/181.svg" alt="" width="230px" className="feature-image"/>
-                  <img className="lg:w-1/2 w-3/4" img src="images/181.svg" alt="" width="230px" className="feature-image"/>
+                  <img className="lg:w-1/2 w-3/4" img src="images/g4a.gif" alt="" width="300px" className="feature-image"/>
+
             </div>
             </div>
 
@@ -127,11 +105,12 @@ An experiment involving an alchemy of Generative Art and Ancient Civilization.<b
                     </p>
                     <div className="mt-6 border-b-2 py-6">
             <div className="flex flex-wrap lg:flex-nowrap justify-around items-center">
-                  <img className="lg:w-1/2 w-3/4" img src="images/421.svg" alt="" width="230px" className="feature-image"/>
-                  <img className="lg:w-1/2 w-3/4" img src="images/421.svg" alt="" width="230px" className="feature-image"/>
+                  <img className="lg:w-1/2 w-3/4" img src="images/g23.gif" alt="" width="200px" className="feature-image"/>
+
                  
-                  <img className="lg:w-1/2 w-3/4" img src="images/421.svg" alt="" width="230px" className="feature-image"/>
-                  <img className="lg:w-1/2 w-3/4" img src="images/421.svg" alt="" width="230px" className="feature-image"/>
+                  <img className="lg:w-1/2 w-3/4" img src="images/g26.gif" alt="" width="200px" className="feature-image"/>
+                  <img className="lg:w-1/2 w-3/4" img src="images/g19.gif" alt="" width="200px" className="feature-image"/>
+                  <img className="lg:w-1/2 w-3/4" img src="images/g17.gif" alt="" width="200px" className="feature-image"/>
                   
                  
             </div>
@@ -162,7 +141,7 @@ An experiment involving an alchemy of Generative Art and Ancient Civilization.<b
             <nav className="flex flex-wrap flex-row justify-around Poppitandfinchsans">
               <a href="/home" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Home</a>
               <a href="/gallery" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Collection</a>
-              <a href="/mint" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Mint</a>
+                <button type="button" className="text-2xl Poppitandfinchsans text-white  m-6">Mint</button>
               <a href="/faq" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">FAQ</a>
               <a href="/about" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">About US</a>
               <a href="/roadmap" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Roadmap</a>
