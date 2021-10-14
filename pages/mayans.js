@@ -29,7 +29,7 @@ export default function Home() {
               <nav className="flex flex-wrap flex-row justify-around Poppitandfinchsans">
                 <a href="/home" className="text-2xl Poppitandfinch text-white hover:text-black m-6">Home</a>
                 <a href="/about" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">About</a>
-                <a href="/mint" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Mint</a>
+              <button type="button" className="text-2xl Poppitandfinchsans text-white  m-6">Mint</button>
                 <a href="/glyphs" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Glyphs</a>
                 <a href="/mayans" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Mayans</a>
                 <a href="/faq" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">FAQ</a>
@@ -57,7 +57,7 @@ An experiment involving an alchemy of Generative Art and Ancient Civilization.<b
 <br></br><br/>‍‍
                    </p>
                    </div>
-                  <img className="lg:w-1/2 w-3/4" img src="images/92.png" alt="" width="350px" className="feature-image"/>
+                  <img className="lg:w-1/2 w-3/4" img src="images/g24.gif" alt="" width="280px" className="feature-image"/>
             </div>
             </div>
 
@@ -117,10 +117,10 @@ mythological and historical content using the rhetorical devices of Classic lite
                   </div>
                 </div>
                 <div id="traits" className="flex flex-wrap justify-around  mx-6 py-6">
-   
+    <img className="lg:w-1/2 w-3/4" img src="images/m8.png" alt="" width="280px" className="feature-image"/>
                
-                    <p className="text-blau Montserrat-Light text-2xl"> We are not pitching an NFT, but an understanding. 
-                    </p>
+
+
                      <p className="text-xl text-white my-6  Poppitandfinch"> A combination of archaeology, epigraphy  and prehistory, and the knowledge and lore of the modem Maya has made it possible for us
 to reconstruct much of Classic culture. One of the most exciting recent developments has been the
 near total decipher of the Classic Maya writing system, so that we can now read the Maya's
@@ -154,7 +154,7 @@ variants and stylistic variations in the visual representation of the individual
             <nav className="flex flex-wrap flex-row justify-around Poppitandfinchsans">
               <a href="/home" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Home</a>
               <a href="/gallery" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Collection</a>
-              <a href="/mint" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Mint</a>
+                    <button type="button" className="text-2xl Poppitandfinchsans text-white  m-6">Mint</button>
               <a href="/faq" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">FAQ</a>
               <a href="/about" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">About US</a>
               <a href="/roadmap" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Roadmap</a>
