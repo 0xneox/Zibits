@@ -1,0 +1,15 @@
+{
+  "/_app": "pages/_app.js",
+  "/about": "pages/about.html",
+  "/api/[id]": "pages/api/[id].js",
+  "/faq": "pages/faq.html",
+  "/gallery": "pages/gallery.html",
+  "/glyphs": "pages/glyphs.html",
+  "/home": "pages/home.html",
+  "/": "pages/index.html",
+  "/mint": "pages/mint.html",
+  "/roadmap": "pages/roadmap.html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
