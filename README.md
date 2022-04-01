@@ -1,5 +1,5 @@
 
-### MayanPunk Web Application 🔥
+### Zibits Web Application 🔥
 
 This repo hosts the UI for  MayanPunk
 
@@ -7,7 +7,7 @@ To find out more please visit:
 
 [🐦 Twitter](https://twitter.com/mayanpunk)
 
-[ℹ️ Website](https://mayanpunk.com)
+[ℹ️ Website](https://zib.one)
 
 [](https://github.com/Mayanpunk/Mayanpunk/public/images/banner.png)
 
