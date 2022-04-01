@@ -1,11 +1,11 @@
 
 ### Zibits Web Application 🔥
 
-This repo hosts the UI for  MayanPunk
+This repo hosts the UI for  Zibits
 
 To find out more please visit:
 
-[🐦 Twitter](https://twitter.com/mayanpunk)
+[🐦 Twitter](https://twitter.com/zib0ne)
 
 [ℹ️ Website](https://zib.one)
 
@@ -17,9 +17,9 @@ Create generative art by using the canvas api and node js. Before you use the ge
 
 The website is made with Next.js + Tailwind CSS Example
 
-A live demo is running at https://mayanpunk.com
+A live demo is running at https://zib.one
 
-### Tools used to create MayanPunk
+### Tools used to create Zibits
 
 Remix IDE: https://remix.ethereum.org
 
