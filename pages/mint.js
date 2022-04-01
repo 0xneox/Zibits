@@ -188,12 +188,11 @@ export default function Mint() {
             <a href="/home" className=""><img src="images/502.svg" width="108" alt="" className="logo-image" /></a>
             <nav className="flex flex-wrap flex-row justify-around Poppitandfinchsans">
               <a href="/home" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Home</a>
-              <a href="/gallery" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Collection</a>
-              <a href="/mint" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Mint</a>
+             
+                <button type="button" className="text-2xl Poppitandfinchsans text-white  m-6">Mint</button>
               <a href="/faq" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">FAQ</a>
               <a href="/about" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">About US</a>
-              <a href="/roadmap" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Roadmap</a>
-              <a href="https://rinkeby.etherscan.io/address/0x805b19163109aa9506383c28c191f55bb882262f" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Testnet</a>
+           
 
               <a href="https://discord.gg/9pNpXBDwqD" className="text-2xl Poppitandfinchsans text-blau   m-6">Discord</a>
               <a href="https://twitter.com/mayanpunk" className="text-2xl Poppitandfinchsans text-blau  m-6">Twitter</a>

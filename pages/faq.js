@@ -6,21 +6,18 @@ export default function Home() {
     <div id="bodyy" className="flex flex-col items-center justify-center min-h-screen py-2">
 
 <Head>
-                <title>Mayan Punk</title>
+                <title>Zibits</title>
                 <link rel="icon" href="/images/favicon-32x32.png" />
-                <meta property="og:title" content="MayanPunk" key="ogtitle" />
-                <meta property="og:description" content="Curated collection of 10000 Generative MayanPunk made from 550 Mayan hieroglyphs. 
-         " key="ogdesc" />
+                <meta property="og:title" content="Zibit"  key="ogtitle" />
+                <meta property="og:description" content="Curated collection of 5555 Zibit NFTs " key="ogdesc" />
                 <meta property="og:type" content="website" key="ogtype" />
-                <meta property="og:url" content="https://mayanpunk.com/" key="ogurl"/>
-                <meta property="og:site_name" content="https://mayanpunk.com/" key="ogsitename" />
+                <meta property="og:url" content="https://zib.one" key="ogurl"/>
+                <meta property="og:site_name" content="https://zib.one/" key="ogsitename" />
                 <meta name="twitter:card" content="summary_large_image" key="twcard"/>
-                <meta property="twitter:domain" content="MayanPunk" key="twdomain" />
-                <meta property="twitter:url" content="https://mayanpunk.com/" key="twurl" />
-                <meta name="twitter:title" content="MayanPunk" key="twtitle" />
-                <meta name="twitter:description" content="Curated collection of 10000 Generative MayanPunk made from 550 Mayan hieroglyphs. 
-         " key="twdesc" />
-        
+                <meta property="twitter:domain" content="Zibits" key="twdomain" />
+                <meta property="twitter:url" content="https://zib.one" key="twurl" />
+                <meta name="twitter:title" content="Zib0ne" key="twtitle" />
+                <meta name="twitter:description" content="Curated collection of 5555 Zibit NFTs" key="twdesc" />
 </Head>
 
           <div >
@@ -28,13 +25,10 @@ export default function Home() {
               <a href="/home" className=""><img src="images/502.svg" width="108" alt="" className="logo-image" /></a><span></span>
               <nav className="flex flex-wrap flex-row justify-around Poppitandfinchsans">
                 <a href="/home" className="text-2xl Poppitandfinch text-white hover:text-black m-6">Home</a>
-                <a href="/about" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">About</a>
-                 <button type="button" className="text-2xl Poppitandfinchsans text-white  m-6">Mint</button>
-                <a href="/glyphs" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Glyphs</a>
-                <a href="/mayans" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Mayans</a>
+                <a href="/mint" className="text-2xl Poppitandfinch text-white hover:text-black m-6">Mint</a>
                 <a href="/faq" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">FAQ</a>
-                <a href="https://linktr.ee/mayanpunk" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Communities</a>
-              
+                <a href="https://linktr.ee/zibone" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Zib One</a>
+                <a href="/roadmap" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Roadmap</a>
               </nav>
             </div>
           </div>
@@ -268,12 +262,11 @@ We intially planned to launch Mayans as an Onchain art, since all our mayanpunks
             <a href="/home" className=""><img src="images/502.svg" width="108" alt="" className="logo-image" /></a>
             <nav className="flex flex-wrap flex-row justify-around Poppitandfinchsans">
               <a href="/home" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Home</a>
-              <a href="/gallery" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Collection</a>
-               <button type="button" className="text-2xl Poppitandfinchsans text-white  m-6">Mint</button>
+             
+                <button type="button" className="text-2xl Poppitandfinchsans text-white  m-6">Mint</button>
               <a href="/faq" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">FAQ</a>
               <a href="/about" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">About US</a>
-              <a href="/roadmap" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Roadmap</a>
-              <a href="https://rinkeby.etherscan.io/address/0x805b19163109aa9506383c28c191f55bb882262f" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Testnet</a>
+           
 
               <a href="https://discord.gg/9pNpXBDwqD" className="text-2xl Poppitandfinchsans text-blau   m-6">Discord</a>
               <a href="https://twitter.com/mayanpunk" className="text-2xl Poppitandfinchsans text-blau  m-6">Twitter</a>
